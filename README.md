@@ -18,11 +18,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Firstly, we must install and enable IIS in windows with CGI and Common HTTP features checked. From here we must also install the IIS management console.
+- Install PHP Managher for IIS
+- Install Rewrite Module
+- Install VC Redistrubite
+- Install HeidiSQL
 
 <h2>Installation Steps</h2>
 

@@ -27,8 +27,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="![image](https://github.com/erikcanorodriguez/osticket-prereqs/assets/168192619/375e24fb-6df8-481e-9832-ba4afccbaff7)
-" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/erikcanorodriguez/osticket-prereqs/assets/168192619/375e24fb-6df8-481e-9832-ba4afccbaff7" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Before begining to install any programs the first step is enabling some common features on our own computer through the control panel. Here is where we activate the IIS management console which is where the bulk of setting up osTicket occurs.
@@ -36,17 +35,21 @@ Before begining to install any programs the first step is enabling some common f
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/erikcanorodriguez/osticket-prereqs/assets/168192619/84e1c3ca-94b8-440f-955b-5404a16201a3" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+HeidiSQL is a pivotal component when trying to install the osTicket server as it provides the IIS system with the database required to run osTicket, so in other words from the IIS we connect to the database we connected in HeidiSQL.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/erikcanorodriguez/osticket-prereqs/assets/168192619/fd4782f8-7cd8-4066-9526-aa2dd37af418" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Upon opening IIS(Internet Information Services Manager) we are able to enable or disable extensions that were prviously missing from osTicket. It is also dirrectly from here that we are able to open osTicket and run the server.
+</p>
 </p>
 <br />
+<img src="https://github.com/erikcanorodriguez/osticket-prereqs/assets/168192619/3e6157c2-c47b-4553-ae51-2b27eadf5d88" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+Finally, after all the prerequisites are done we should have a successful launch!
